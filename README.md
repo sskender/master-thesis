@@ -1,2 +1,2 @@
-# master-thesis
+# Master Thesis
 Master Thesis FER
